@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-boxs;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* color: rgba(21, 31, 60, 1); */
+  background-color: #eeeeee;
+}
+
+div {
+  max-width: 1100px;
+  margin: auto;
+}
+
+h1 {
+  font-size: 12rem;
+  text-align: center;
+}
